@@ -1,6 +1,6 @@
 # AngularFire Lite CLI (Under Development)
 <p align="center">
-![AFL CLI](https://github.com/hamedbaatour/afl-cli/blob/master/preview/AFL%20Snapshot.png?raw=true)
+  <img src="https://github.com/hamedbaatour/afl-cli/blob/master/preview/AFL%20Snapshot.png?raw=true" alt="AFL CLI">
 </p>
 # Features
 
