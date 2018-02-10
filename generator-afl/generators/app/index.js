@@ -60,7 +60,7 @@ module.exports = class extends Generator {
       {
         type: 'list',
         name: 'type',
-        message: chalk.yellowBright.bold('Which component service you want to use?'),
+        message: chalk.yellowBright.bold('Which Firebase service you want to use?'),
         choices: ['Authentication', 'Firestore', 'Realtime Database', 'Storage', 'Cloud Messaging'],
         default: ['Authentication']
       },
