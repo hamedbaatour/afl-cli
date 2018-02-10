@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Hamed Baatour",
+      "authorEmail": "hamedbaatour@gmail.com",
+      "authorUrl": "https://github.com/hamedbaatour"
+    }
+  }
+}
