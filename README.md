@@ -1,4 +1,7 @@
 # AngularFire Lite CLI (Under Development)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/hamedbaatour/afl-cli.svg)](https://greenkeeper.io/)
+
 <p align="center">
   <img src="https://github.com/hamedbaatour/afl-cli/blob/master/preview/AFL%20Snapshot.png?raw=true" alt="AFL CLI">
 </p>
