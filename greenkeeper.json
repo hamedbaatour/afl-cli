@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "generator-afl/package.json"
+      ]
+    }
+  }
+}
